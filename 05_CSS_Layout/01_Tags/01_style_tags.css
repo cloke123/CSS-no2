@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: blue;
+}
+h1 {
+    font-family: 'Times New Roman';
+    color: orange;
+}
+p{
+    color: cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    {}
+
+ .hitler{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: green;
+        opacity: 0.65;
+        font-size: bolder ;
+        margin-top: 15px
+    }   
+    
+    
+    AUFGABE
+    1) Passe die Farbe des <h1>-Tags an auf orange
+    2) Passe den Schrifttyp des <p>-Tags an in Verdana
+*/
